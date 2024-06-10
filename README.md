@@ -5,14 +5,14 @@ This project implements a REST API for a spam detection and user search service,
 
 add .env file in root folder of project 
 
-DATABASE_TYPE=mysql
-DATABASE_HOST=sql12.freesqldatabase.com
-DATABASE_USERNAME=sql12711851
-DATABASE_PASSWORD=2BG1Uek2jx
-DATABASE_NAME=sql12711851
-TOKEN_SECRET=123456789
-REFRESH_TOKEN_SECRET=wqwertyuiop
-PORT=3000
+DATABASE_TYPE=mysql    
+DATABASE_HOST=sql12.freesqldatabase.com  
+DATABASE_USERNAME=sql12711851  
+DATABASE_PASSWORD=2BG1Uek2jx  
+DATABASE_NAME=sql12711851  
+TOKEN_SECRET=123456789  
+REFRESH_TOKEN_SECRET=wqwertyuiop  
+PORT=3000  
 
 Setup and Installation
 *Prerequisites*
